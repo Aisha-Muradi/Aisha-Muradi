@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Aisha-Muradi/Aisha-Muradi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm Aisha!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fun Facts About Me: 
+ - I love exploring new technologies and frameworks.
+ - I’m always keen to solve problems and hands-on projects.
+ - Coffee and late-night coding sessions are my thing.
+
+---
+
+Languages I’ve Used
+ - Python (my favorite!)
+ - Racket
+ - JavaScript 
+ - HTML & CSS
+ - Java
+ - R
+ - Swift
+
+---
+
+I'm especially passionate about:
+ - Software Development
+ - Machine Learning
+ - Engineering Physics
+ - Motorsports
